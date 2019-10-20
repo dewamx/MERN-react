@@ -1,1 +1,1 @@
-# MERN-react
+Fitness tracking application using the MERN stack (MongoDB Atlas, Express, React, Node) that’s used to keep track of your physical exercise. Using CRUD app functions, you are able to add and delete users, add and delete workouts, track workouts saved onto the database, and track other users as well.
