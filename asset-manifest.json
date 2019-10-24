@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/MERN-react/static/js/main.90ab14a7.chunk.js",
+    "main.js.map": "/MERN-react/static/js/main.90ab14a7.chunk.js.map",
+    "runtime-main.js": "/MERN-react/static/js/runtime-main.b52a1510.js",
+    "runtime-main.js.map": "/MERN-react/static/js/runtime-main.b52a1510.js.map",
+    "static/css/2.189d53d3.chunk.css": "/MERN-react/static/css/2.189d53d3.chunk.css",
+    "static/js/2.160020cd.chunk.js": "/MERN-react/static/js/2.160020cd.chunk.js",
+    "static/js/2.160020cd.chunk.js.map": "/MERN-react/static/js/2.160020cd.chunk.js.map",
+    "index.html": "/MERN-react/index.html",
+    "precache-manifest.43e5db15ea20018125d989007ca2183a.js": "/MERN-react/precache-manifest.43e5db15ea20018125d989007ca2183a.js",
+    "service-worker.js": "/MERN-react/service-worker.js",
+    "static/css/2.189d53d3.chunk.css.map": "/MERN-react/static/css/2.189d53d3.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b52a1510.js",
+    "static/css/2.189d53d3.chunk.css",
+    "static/js/2.160020cd.chunk.js",
+    "static/js/main.90ab14a7.chunk.js"
+  ]
+}
